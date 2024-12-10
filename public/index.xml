@@ -2,23 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first blog!</title>
-      <link>//localhost:1313/posts/my-first-blog/</link>
+      <link>/posts/my-first-blog/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/my-first-blog/</guid>
+      <guid>/posts/my-first-blog/</guid>
       <description>&lt;p&gt;It
-!&lt;img alt=&#34;Image Description&#34; src=&#34;//localhost:1313/images/Screenshot%202024-12-09%20181246.png&#34;&gt;
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-12-09%20181246.png&#34;&gt;
 is so good&lt;/p&gt;</description>
       <content>&lt;p&gt;It
-!&lt;img alt=&#34;Image Description&#34; src=&#34;//localhost:1313/images/Screenshot%202024-12-09%20181246.png&#34;&gt;
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Screenshot%202024-12-09%20181246.png&#34;&gt;
 is so good&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My first blog!</title>
+      <link>/posts/please-work/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/please-work/</guid>
+      <description>&lt;p&gt;work Please!!
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241210211253.png&#34;&gt;
+v. Good!!&lt;/p&gt;</description>
+      <content>&lt;p&gt;work Please!!
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241210211253.png&#34;&gt;
+v. Good!!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My first blog!</title>
+      <link>/posts/testing/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/testing/</guid>
+      <description>&lt;p&gt;testing!!
+hi&lt;/p&gt;</description>
+      <content>&lt;p&gt;testing!!
+hi&lt;/p&gt;
 </content>
     </item>
     
