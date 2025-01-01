@@ -1,6 +1,6 @@
 ---
-title: "My First Blog!"
-date: "1st January 2025"
+title: My First Blog!
+date: 01-01-2025
 tags:
   - vishalshetty
   - firstblog
