@@ -5,7 +5,7 @@ import shutil
 # Paths (using raw strings to handle Windows backslashes correctly)
 posts_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\content\posts"
 attachments_dir = r"D:\DPS\VISHAL\Obsidian\Vishal's Obsidian Vault\Attachments"
-static_images_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\static\images"
+static_images_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\assets\images"
 
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
