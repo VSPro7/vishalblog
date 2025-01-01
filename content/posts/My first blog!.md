@@ -1,6 +1,6 @@
 ---
 title: My First Blog!
-date: 2025-01-01
+date: 01-01-2025
 draft: false
 tags:
   - vishalshetty
