@@ -1,11 +1,11 @@
 ---
 title: "My First Blog!"
-author: "Vishal Shetty"
 date: "1st January 2025"
+author: "Vishal Shetty"
 tags:
   - vishalshetty
   - firstblog
-  - -blog
+  - blog
 ---
 It
 
