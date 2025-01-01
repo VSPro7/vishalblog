@@ -1,10 +1,11 @@
 ---
-title: My First Blog!
-date: 2025-01-01
-draft: false
+title: "My First Blog!"
+author: "Vishal Shetty"
+date: "1st January 2025"
 tags:
   - vishalshetty
-  - blog
+  - firstblog
+  - -blog
 ---
 It
 
