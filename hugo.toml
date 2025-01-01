@@ -1,34 +1,31 @@
 baseURL = "https://vspro7.github.io/vishalblog/"
-title = "Vishal's Blog"
+title = "ExampleSite"
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
 googleAnalytics = "UA-123-45"
-# pygmentsUseClasses = true
-# paginate = 5
-
 [minify]
 disableXML = true
 minifyOutput = true
 
 [params]
 env = "production"
-title = "Vishal's Blog"
-description = "This is Vishal's Blog"
+title = "ExampleSite"
+description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Vishal Shetty"
+author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = false
+ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
-ShowWordCount = false
+ShowWordCount = true
 ShowRssButtonInSectionTermList = true
 UseHugoToc = true
 disableSpecial1stPost = false
@@ -47,14 +44,14 @@ tocopen = false
   safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-  text = "Vishal's Blog"
+  text = "Home"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
   [params.profileMode]
   enabled = false
-  title = "Vishal's Blog"
-  subtitle = "This is Vishal's Blog!"
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
   imageUrl = "<img location>"
   imageWidth = 120
   imageHeight = 120
@@ -72,17 +69,17 @@ tocopen = false
   Title = "Hi there 👋"
   Content = "Welcome to my blog"
 
-  # [[params.socialIcons]]
-  # name = "x"
-  # url = "https://x.com/"
+  [[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/"
 
-  # [[params.socialIcons]]
-  # name = "stackoverflow"
-  # url = "https://stackoverflow.com"
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com"
 
-  # [[params.socialIcons]]
-  # name = "github"
-  # url = "https://github.com/"
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -99,7 +96,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/VSPro7/vishalblog/tree/master/content"
+  URL = "https://github.com/<path_to_repo>/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -126,16 +123,10 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "example"
+name = "example.org"
+url = "https://example.org"
 weight = 30
 
 [markup.highlight]
 noClasses = false
-
-[markup.goldmark.renderHooks.image]
-enableDefault = true
-
-[markup.goldmark.renderHooks.link]
-enableDefault = true
