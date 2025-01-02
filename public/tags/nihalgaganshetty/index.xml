@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nihalgaganshetty on ExampleSite</title>
+    <title>Nihalgaganshetty on Terminal</title>
     <link>https://vspro7.github.io/vishalblog/tags/nihalgaganshetty/</link>
-    <description>Recent content in Nihalgaganshetty on ExampleSite</description>
-    <image>
-      <title>ExampleSite</title>
-      <url>https://vspro7.github.io/vishalblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://vspro7.github.io/vishalblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.138.0</generator>
+    <description>Recent content in Nihalgaganshetty on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vspro7.github.io/vishalblog/tags/nihalgaganshetty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://vspro7.github.io/vishalblog/tags/nihalgaganshetty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nihal</title>
       <link>https://vspro7.github.io/vishalblog/posts/nihal/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://vspro7.github.io/vishalblog/posts/nihal/</guid>
       <description>&lt;p&gt;This this is Nihal&amp;rsquo;s Website in Vishal&amp;rsquo;s Blog&lt;/p&gt;</description>
+      <content>&lt;p&gt;This this is Nihal&amp;rsquo;s Website in Vishal&amp;rsquo;s Blog&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
