@@ -1,5 +1,6 @@
 baseurl = "https://vspro7.github.io/vishalblog/"
 languageCode = "en-us"
+googleAnalytics = "UA-123-45"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
@@ -31,7 +32,8 @@ theme = "terminal"
   showLastUpdated = false
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
+  # updatedDatePrefix = "xx-xx-2020"
+  DateFormat = "January 2, 2006"
 
   # whether to show a page's estimated reading time
   # readingTime = true # default
@@ -89,6 +91,15 @@ theme = "terminal"
           identifier = "my website"
           name = "My Website"
           url = "https://vspro7.github.io/vishals-website.github.io/"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
 
 [markup.goldmark.renderHooks.image]
 enableDefault = true
