@@ -10,16 +10,16 @@ theme = "terminal"
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -34,11 +34,11 @@ theme = "terminal"
   # updatedDatePrefix = "Updated"
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  # readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  # Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -55,12 +55,12 @@ theme = "terminal"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Vishal's Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
+      subtitle = "This is Vishal's Blog"
+      owner = "Vishal Shetty"
+      keywords = "Vishal, Vishal Shetty, Vishal's Blog, Vihal's Website"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
@@ -73,8 +73,8 @@ theme = "terminal"
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
-        logoHomeLink = "/"
+        logoText = "Vishal's Blog"
+        logoHomeLink = "https://vspro7.github.io/vishalblog/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
@@ -85,6 +85,10 @@ theme = "terminal"
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
+        [[languages.en.menu.main]]
+          identifier = "my website"
+          name = "My Website"
+          url = "https://vspro7.github.io/vishals-website.github.io/"
 
 [markup.goldmark.renderHooks.image]
 enableDefault = true

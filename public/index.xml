@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Vishal&#39;s Blog</title>
     <link>https://vspro7.github.io/vishalblog/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Vishal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://vspro7.github.io/vishalblog/index.xml" rel="self" type="application/rss+xml" />
