@@ -62,7 +62,7 @@ theme = "PaperMod"
     [languages.en.params]
       subtitle = "This is Vishal's Blog"
       owner = "Vishal Shetty"
-      keywords = "Vishal, Vishal Shetty, Vishal's Blog, Vihal's Website"
+      # keywords = "Vishal, Vishal Shetty, Vishal's Blog, Vihal's Website"
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
