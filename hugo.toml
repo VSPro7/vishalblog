@@ -3,7 +3,7 @@ languageCode = "en-us"
 googleAnalytics = "UA-123-45"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
+theme = "PaperMod"
 
 [params]
   # dir name of your main content (default is `content/posts`).
