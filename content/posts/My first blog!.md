@@ -1,12 +1,12 @@
 ---
 title: My First Blog!
 author: Vishal Shetty
-date: 2025-01-01
+date: 2025-01-11
 tags:
   - vishalshetty
   - firstblog
   - blog
 ---
-It
-
-is so good
+Hi I am Vishal Shetty and this is my first blog.
+!![Image Description](/images/Pasted%20image%2020250111163316.png)
+And it is so good.
