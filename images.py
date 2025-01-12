@@ -3,7 +3,7 @@ import re
 import shutil
 
 # Paths (using raw strings to handle Windows backslashes correctly)
-posts_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\content\posts"
+posts_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\content"
 attachments_dir = r"D:\DPS\VISHAL\Obsidian\Vishal's Obsidian Vault\Attachments"
 static_images_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\assets\images"
 
