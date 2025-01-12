@@ -8,9 +8,12 @@ attachments_dir = r"D:\DPS\VISHAL\Obsidian\Vishal's Obsidian Vault\Attachments"
 static_images_dir = r"D:\DPS\VISHAL\Website\blog\vishalblog\assets\images"
 
 # Step 1: Process each markdown file in the posts directory
-for filename in os.listdir(posts_dir):
-    if filename.endswith(".md"):
-        filepath = os.path.join(posts_dir, filename)
+for subdir, dirs, files in os.walk(posts_dir):
+    for file in files:
+        # file = subdir + os.sep + file
+
+        # if file.endswith(".md"):
+        filepath = os.path.join(subdir, file)
         
         with open(filepath, "r", encoding="utf-8") as file:
             content = file.read()

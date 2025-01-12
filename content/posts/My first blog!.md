@@ -6,5 +6,5 @@ tags:
   - firstblog
 ---
 Hi I am Vishal Shetty and this is my first blog.
-![[Pasted image 20250111163316.png]]
-And it is so good.![[Pasted image 20250111163316.png]]
+!![Image Description](/images/Pasted%20image%2020250111163316.png)
+And it is so good.!![Image Description](/images/Pasted%20image%2020250111163316.png)
