@@ -10,8 +10,8 @@ googleAnalytics = "UA-123-45"
 # paginate = 5
 
 [minify]
-disableXML = true
-minifyOutput = true
+disableXML = false
+minifyOutput = false
 
 [params]
 env = "production"
