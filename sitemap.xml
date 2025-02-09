@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vspro7.github.io/vishalblog/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/tags/firstblog/</loc>
+    <loc>/tags/firstblog/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/posts/my-first-blog/</loc>
+    <loc>/posts/my-first-blog/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/showcase/</loc>
+    <loc>/showcase/</loc>
   </url><url>
-    <loc>https://vspro7.github.io/vishalblog/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
