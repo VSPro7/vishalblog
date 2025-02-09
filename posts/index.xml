@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- 0.140.2</generator>
+    <title>Posts on Vishal&#39;s Blog</title>
+    <link>https://vspro7.github.io/vishalblog/posts/</link>
+    <description>Recent content in Posts on Vishal&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://vspro7.github.io/vishalblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog!</title>
-      <link>/posts/my-first-blog/</link>
+      <link>https://vspro7.github.io/vishalblog/posts/my-first-blog/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my-first-blog/</guid>
+      
+      <guid>https://vspro7.github.io/vishalblog/posts/my-first-blog/</guid>
       <description>&lt;p&gt;Hi I am Vishal Shetty and this is my first blog.
-!&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;/images/Pasted%20image%2020250111163316.png&#34;&gt;
+!&lt;img src=&#34;https://vspro7.github.io/vishalblog/images/Pasted%20image%2020250111163316.png&#34; alt=&#34;Image Description&#34;&gt;
 And it is so good.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Hi I am Vishal Shetty and this is my first blog.
+!&lt;img src=&#34;https://vspro7.github.io/vishalblog/images/Pasted%20image%2020250111163316.png&#34; alt=&#34;Image Description&#34;&gt;
+And it is so good.&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
