@@ -3,4 +3,4 @@ Of Vishalblog!
 
 I am Vishal and I have made this website.
 
-Your can enjoy the content of my page and if you have anything to say😊, you don't hesitate to email me.
+Your can enjoy the content of my page and if you have anything to say😊, you don't hesitate to email me at vishalblog.in@gmail.com.
